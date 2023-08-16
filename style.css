@@ -1,0 +1,62 @@
+.main1{
+    /* border: 1px solid; */
+    /* border-color: blue; */
+    height: 100px;
+}
+.img{
+    position: absolute;
+    left: 10%;
+    top: 6%;
+}
+
+span:hover{
+    background-color: blueviolet;
+    
+}
+ul{
+    display: flex ;
+    
+} 
+
+
+ul li{
+    list-style: none;
+    margin-bottom: 5PX;
+    margin-top: 20PX;
+    font-size: 20px;
+    width: 160px;
+    text-align: center;
+}
+.list1{
+    left: 20%;
+    position: absolute;
+}
+.button{
+    left: 88%;
+    position: absolute;
+    border: 1px solid black;
+    top: 5%;
+    width: 120px;
+    height: 12px;
+    text-align: center;
+    padding: 18px 18px;
+    
+    
+}
+.img2{
+    position: relative;
+    top: 101px;
+} 
+.img4{
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    letter-spacing: 10px;
+    /* border: 1px solid black; */
+    font-size: 50px;
+    font-family: "Roboto ,sans-serif";
+    font-weight: 700;
+    text-transform: uppercase;
+    color: aliceblue;
+
+}
